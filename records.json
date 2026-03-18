@@ -1,0 +1,26 @@
+[
+  {
+    "type": "income",
+    "amount": 1000,
+    "memo": "\u30c6\u30b9\u30c8",
+    "date": "2026-03-17"
+  },
+  {
+    "type": "expense",
+    "amount": 100,
+    "memo": "test",
+    "date": "2026-03-17"
+  },
+  {
+    "type": "income",
+    "amount": 1000,
+    "memo": "test",
+    "date": "2026-03-17"
+  },
+  {
+    "type": "expense",
+    "amount": 10,
+    "memo": "test",
+    "date": "2026-03-17"
+  }
+]
